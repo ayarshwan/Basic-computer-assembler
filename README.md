@@ -41,6 +41,7 @@ DIF,        HEX  0
 ## 📌 Example Output
 symbol lable= {'MIN': 106, 'SUB': 107, 'DIF': 108}
 First pass done, wait for second pass..
+
 Machine Code:
 100: 0010000001101011
 101: 0111001000000000
