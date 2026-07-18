@@ -53,10 +53,3 @@ second pass done yoo!
 ## 🛠️ Requirements
 No external dependencies — pure Python 3 standard library.
 
-## 🚀 Possible Improvements
-- Add input validation/error messages for malformed assembly
-- Support reading source code from a `.asm` file instead of a hardcoded string
-- Add a CLI flag to output machine code to a file
-- Write unit tests covering each instruction type
-
----
